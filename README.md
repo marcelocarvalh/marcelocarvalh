@@ -26,4 +26,6 @@ Sou um estudante apaixonado por Quality Assurance (QA) e automação de testes, 
 * 💻 JavaScript
 * 🌐 HTML & CSS
 
+# 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=radical)
 

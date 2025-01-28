@@ -19,11 +19,11 @@ Sou um estudante apaixonado por Quality Assurance (QA) e automação de testes, 
 
 # 🎓 Principais Conhecimentos
 
-✅ Cypress
-🔄 Testes End-to-End
-📝 Testes de Integração
-🎯 Testes Funcionais
-💻 JavaScript
-🌐 HTML & CSS
+* ✅ Cypress
+* 🔄 Testes End-to-End
+* 📝 Testes de Integração
+* 🎯 Testes Funcionais
+* 💻 JavaScript
+* 🌐 HTML & CSS
 
 

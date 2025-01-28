@@ -25,7 +25,3 @@ Sou um estudante apaixonado por Quality Assurance (QA) e automação de testes, 
 * 🎯 Testes Funcionais
 * 💻 JavaScript
 * 🌐 HTML & CSS
-
-# 📊 Estatísticas do GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USERNAME&theme=radical)](https://git.io/streak-stats)
-

@@ -12,10 +12,10 @@ Sou um estudante apaixonado por Quality Assurance (QA) e automação de testes, 
 
 # 🛠️ Tecnologias e Ferramentas
 
-. JavaScript
-. Cypress
-. Git
-. HTML & CSS
+* JavaScript
+* Cypress
+* Git
+* HTML & CSS
 
 # 🎓 Principais Conhecimentos
 
